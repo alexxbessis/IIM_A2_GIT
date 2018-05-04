@@ -17,11 +17,11 @@
 					</div>
 					<div class="form-input">
 						<span class="password">
-							<input type="password" name="password" placeholder="Password">
+							<input type="password" name="password" placeholder="Mot de passe">
 						</span>
 					</div>
 					<div class="form-submit">
-						<input type="submit" value="Connecter">	
+						<input type="submit" value="Connecter">
 					</div>
 					<p class="account">Vous n'avez pas de compte ? <a href="register.php">Inscrivez vous !</a></p>
 				</form>
